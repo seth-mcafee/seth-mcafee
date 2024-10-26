@@ -1,4 +1,4 @@
-<h1 align="center">Hi There Folks!👋, I'm Dean Seth McAfee Grand Cherokee</h1>
+<h1 align="center">Hi There Folks!👋, I'm Dean Seth </h1>
 <h3 align="center">A passionate Fullstack Developer, CTO, CSO, Cloud Architect and Blockchain Engineer.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://as01.epimg.net/meristation/imagenes/2020/04/19/betech/1587327405_626456_1587327506_noticia_normal.jpg">
